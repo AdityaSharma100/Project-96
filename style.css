@@ -1,0 +1,22 @@
+button{
+    border-color: yellow;
+    cursor: pointer;
+    color: black;
+    width: 10%;
+    font-size: 30px;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(185, 218, 135);
+}
+h1{
+    color: black;
+	font-size: 50px;
+}
+.logo{
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: orange;
+    border-style: solid;
+}
